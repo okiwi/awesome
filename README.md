@@ -1,2 +1,2 @@
 # awesome
-des trucs qui valent le coût
+des trucs qui valent le coup
