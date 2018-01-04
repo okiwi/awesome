@@ -1,6 +1,8 @@
-# awesome
-des trucs qui valent le coup
+# Awesome Okiwi
+Des trucs qui valent le coup pour la communauté d'Okiwi
 
-## Philosophie des sciences
+## [Livres](Books.md)
 
-- [Introduction à la philosophie des sciences par Étienne Klein](https://www.youtube.com/playlist?list=PLgSHH6boFf5tYoX6CUjDupfKgj5QajDeW)
+## [Vidéos](Videos.md)
+
+
