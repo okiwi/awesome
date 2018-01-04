@@ -6,20 +6,20 @@
 ## Project & Team Management
  - The Mythical Man Month _F. Brooks_
  - Peopleware _T. Demarco & T. Lister_
- - Scrum & XP From the Trenches _H. Kniberg_ (freely available online)
+ - Scrum & XP From the Trenches _H. Kniberg_ [(freely available online)](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
  - The Art of Agile Development: Pragmatic Guide to Agile Software Development _Shane Warden & James Shore_
  - Extreme Programming Explained: Embrace Change _Kent Beck & Cynthia Andres_ 
  - Lean Software Development: An Agile Toolkit Agile Toolkit _Mary Poppendieck, Tom Poppendieck_
  - Team Geek: A Software Developer's Guide to Working Well with Others _Brian W. Fitzpatrick, Ben Collins-Sussman_
 
 ## Computer Science basics
- - Structure and Interpretation of Computer Programs _Hal Abelson's & Jerry Sussman's_ (freely available online)
+ - Structure and Interpretation of Computer Programs _Hal Abelson's & Jerry Sussman's_ [(freely available online)](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 
 ## Domain Driven Design
  - Domain-Driven Design: Tackling Complexity in the Heart of Software _Eric Evans_
  - Domain-Driven Design Distilled _Vaughn Vernon_
  - Implementing Domain-Driven Design _Vaughn Vernon_
- - Domain Driven Design Quickly _InfoQ_ (freely available online)
+ - Domain Driven Design Quickly _InfoQ_ [(freely available online)](https://www.infoq.com/minibooks/domain-driven-design-quickly)
  - Patterns, Principles, and Practices of Domain-Driven Design _Scott Millett_
  - Living Documentation by design, with Domain-Driven Design _Cyrille Martraire_ [(freely available online)](https://leanpub.com/livingdocumentation)
 
@@ -46,12 +46,12 @@
  - RESTful Web Services _Leonard Richardson & Sam Ruby_
 
 ### CQRS
- - CQRS Documents _Greg Young_ (freely available online)
+ - CQRS Documents _Greg Young_ [(freely available online)](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 
 ## Languages
 
 ### Javascript
- - JavaScript Allongé, the "Six" Edition _Reg “raganwald” Braithwaite_ [freely available online](https://leanpub.com/javascriptallongesix/read)
+ - JavaScript Allongé, the "Six" Edition _Reg “raganwald” Braithwaite_ [(freely available online)](https://leanpub.com/javascriptallongesix/read)
 
 ### Ruby
  - The Well-Grounded Rubyist _David A. Black_
