@@ -67,7 +67,7 @@
  - SQL Performance Explained: Everything Developers Need to Know about SQL _Markus Winand_
 
 ### Haskell
- - [Learn You Haskell](http://learnyouahaskell.com/chapters)
+ - Learn You Haskell [(freely available online)](http://learnyouahaskell.com/chapters)
 
 ## Cryptocurrencies
 
