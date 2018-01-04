@@ -21,6 +21,7 @@
  - Implementing Domain-Driven Design _Vaughn Vernon_
  - Domain Driven Design Quickly _InfoQ_ (freely available online)
  - Patterns, Principles, and Practices of Domain-Driven Design _Scott Millett_
+ - Living Documentation by design, with Domain-Driven Design _Cyrille Martraire_ [(freely available online)](https://leanpub.com/livingdocumentation)
 
 ## Code design
  - Clean Code _Robert Cecil Martin_
