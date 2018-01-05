@@ -1,3 +1,5 @@
+# Computer Sciences
+
 ## Product Specification & Design
  - Impact Mapping _G. Adzic_
  - User Story Mapping _J. Patton_
@@ -75,3 +77,6 @@
  - Mastering Bitcoin: Unlocking Digital Cryptocurrencies _Andreas M. Antonopoulos_
  - The Internet of Money _Andreas M. Antonopoulos_
  - Bitcoin. La monnaie acéphale (FR) _Jacques Favier / Adli Takkal Bataille_
+
+## Philosophie des sciences
+- [Introduction à la philosophie des sciences par Étienne Klein](https://www.youtube.com/playlist?list=PLgSHH6boFf5tYoX6CUjDupfKgj5QajDeW)
