@@ -70,6 +70,7 @@
 
 ### Haskell
  - Learn You Haskell [(freely available online)](http://learnyouahaskell.com/chapters)
+ - Real World Haskell _Bryan O'Sullivan, Don Stewart, John Goerzen_ [(freely available online)](http://book.realworldhaskell.org/read/)
 
 ## Cryptocurrencies
 
