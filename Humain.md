@@ -1,6 +1,8 @@
 # Sciences Humaines
 
 ## Famille
+ - Parler pour que les enfants écoutent, écouter pour que les enfants parlent _Adèle Faber, Elaine Mazlish_
+ - J'ai tout essayé ! _Isabelle Filliozat_
  - Signe avec moi : La langue gestuelle des sourds à la portée de tous les bébés _Monica Companys,‎ Nathanaëlle Bouhier-Charles_
  - Calme et attentif comme une grenouille _Eline Snel_
 
