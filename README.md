@@ -1,5 +1,5 @@
 # Awesome Okiwi
-Des trucs qui valent le coup pour la communauté d'Okiwi
+Des livres qui valent le coup pour la communauté d'Okiwi
 
 ## [Sciences Humaines](Humain.md)
 
