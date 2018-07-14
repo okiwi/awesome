@@ -12,4 +12,4 @@
  - Méditer, jour après jour : 25 leçons pour vivre en pleine conscience _Christophe André_
 
 ### Développement personnel
- - Les mots sont des fenêtres (ou bien ce sont des murs) _Marshall B. Rosenberg_
+ - [Les mots sont des fenêtres](Humain/Les%20Mots%20sont%20des%20fenetres.md)  de _Marshall B. Rosenberg_
