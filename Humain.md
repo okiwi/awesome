@@ -9,7 +9,7 @@
 ## Bien-être
 
 ### Méditation 
- - Méditer, jour après jour : 25 leçons pour vivre en pleine conscience _Christophe André_
+ - [Méditer, jour après jour : 25 leçons pour vivre en pleine conscience](Humain/Méditer,%20jour%20après%20jour%20:%2025%20leçons%20pour%20vivre%20en%20pleine%20conscience.md) de _Christophe André_
 
 ### Développement personnel
  - [Les mots sont des fenêtres](Humain/Les%20Mots%20sont%20des%20fenetres.md)  de _Marshall B. Rosenberg_
