@@ -1,6 +1,6 @@
-#Signe avec moi : La langue gestuelle des sourds à la portée de tous les bébés
+# Signe avec moi : La langue gestuelle des sourds à la portée de tous les bébés
 
- ##de _Monica Companys,‎ Nathanaëlle Bouhier-Charles_
+ ## de _Monica Companys,‎ Nathanaëlle Bouhier-Charles_
  
  
 ![signe avec moi cover](images/signe%20avec%20moi.jpg) 
