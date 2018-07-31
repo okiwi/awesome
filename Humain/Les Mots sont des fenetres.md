@@ -7,8 +7,8 @@
 *Conseillé par : Stéphanie Loiseleur et Fabien Lamarque* 
  
 
-######Fabien Lamarque, @Fabinout :   
-**Le sujet** :  La communication non-violente.    
+Fabien Lamarque, @Fabinout :              
+**Le sujet** :  La communication non-violente.                 
 **Analyse / avis** : Un livre intéressant qui traite de la communication non-violente (**CNV**) en général
 et de ses bienfaits. C'est enrichissant et ça permet d'ouvrir ses chakras à une autre méthode 
 de communication au quotidien et à une nouvelle façon de résoudre ses conflits. Ça s'applique aussi à la 
