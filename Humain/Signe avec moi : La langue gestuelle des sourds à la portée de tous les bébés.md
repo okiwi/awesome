@@ -3,7 +3,7 @@
  ## de _Monica Companys,‎ Nathanaëlle Bouhier-Charles_
  
  
-![signe avec moi cover](images/signe%20avec%20moi.jpg) 
+![signe avec moi cover](https://github.com/okiwi/awesome/blob/master/images/signe%20avec%20moi.jpg) 
  
 *Conseillé par : Jean-Baptiste Dusseaut et Fabien Lamarque* 
  
