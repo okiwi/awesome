@@ -9,7 +9,7 @@
  
 Fabien Lamarque, @Fabinout :   
 **Le sujet** :  L'apprentissage de la langue des signes avec son bébé.     
-**Analayse / avis** : Bouquin très rapide à lire. Le livre est découpé en trois parties : 
+**Analyse / avis** : Bouquin très rapide à lire. Le livre est découpé en trois parties :
  *  Les multiples avantages d'apprendre la langue des signes avec son bébé avec des témoignages de parents    
  * Comment lui apprendre ses premiers signes
  * Dictionnaire des signes les plus utiles
