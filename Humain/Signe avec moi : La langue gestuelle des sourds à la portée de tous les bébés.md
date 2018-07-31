@@ -5,7 +5,7 @@
  
 ![signe avec moi cover](images/signe%20avec%20moi.jpg) 
  
- Conseillé par : Jean-Baptiste Dusseaut et Fabien Lamarque 
+*Conseillé par : Jean-Baptiste Dusseaut et Fabien Lamarque* 
  
 Fabien Lamarque, @Fabinout :   
 **Le sujet** :  L'apprentissage de la langue des signes avec son bébé.     
