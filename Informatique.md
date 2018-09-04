@@ -10,7 +10,7 @@
  - Peopleware _T. Demarco & T. Lister_
  - Scrum & XP From the Trenches _H. Kniberg_ [(freely available online)](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
  - The Art of Agile Development: Pragmatic Guide to Agile Software Development _Shane Warden & James Shore_
- - Extreme Programming Explained: Embrace Change _Kent Beck & Cynthia Andres_ 
+ - Extreme Programming Explained: Embrace Change _Kent Beck & Cynthia Andres_
  - Lean Software Development: An Agile Toolkit Agile Toolkit _Mary Poppendieck, Tom Poppendieck_
  - Team Geek: A Software Developer's Guide to Working Well with Others _Brian W. Fitzpatrick, Ben Collins-Sussman_
 
@@ -23,7 +23,7 @@
 
 ## Domain Driven Design
  - Domain-Driven Design: Tackling Complexity in the Heart of Software _Eric Evans_
- - Domain-Driven Design Distilled _Vaughn Vernon_
+ - [Domain-Driven Design Distilled](Informatique/domain-driven-design-distilled.md) _Vaughn Vernon_
  - Implementing Domain-Driven Design _Vaughn Vernon_
  - Domain Driven Design Quickly _InfoQ_ [(freely available online)](https://www.infoq.com/minibooks/domain-driven-design-quickly)
  - Patterns, Principles, and Practices of Domain-Driven Design _Scott Millett_
