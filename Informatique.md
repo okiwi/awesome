@@ -53,6 +53,7 @@
 
 ### CQRS
  - CQRS Documents _Greg Young_ [(freely available online)](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
+ - Exploring CQRS and Event Sourcing: A Journey into High Scalability, Availability, and Maintainability with Windows Azure [(freely available online)](https://www.microsoft.com/en-us/download/details.aspx?id=34774)
 
 ## Languages
 
