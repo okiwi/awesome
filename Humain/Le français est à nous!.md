@@ -31,7 +31,7 @@ Violence symbolique, et construction sociale du sens des mots
 *Masculinisation et féminisation du français, la langue comme champs de bataille*
 
 Les offensives des grammairiens interventionnistes, l'éclipse des autrices, la querelle du neutre et le sexe des mots.    
-Un passage spéciale sur "que penser de l'écriture inclusive".
+Un passage spécial sur "que penser de l'écriture inclusive".
 
 *Langue française et colonialisme, la langue comme étendard*
 
@@ -70,7 +70,12 @@ Ce chapitre était passionnant, comment les révolutionnaires ont décidé de le
  
  ## Mon avis sur le livre
  
- C'est juste trop bien. J'ai aimé : 
+ C'est juste super bien. J'ai aimé : 
  * le fait de replacer la langue française et la vision que j'en ai dans son contexte historique de création, pourquoi on a une grammaire, pourquoi on a des dictionnaires ? A-t'on un ou des dictionnaires ?
  * la langue dans un enjeu de positionnement social, et la vacuité de la recherche de la règle de grammaire originelle
  * la volonté des autrices de s'émanciper de ses règles lorsqu'elles ne font plus sens.
+ * le chapitre écrit entièrement en français "moderne" :)
+ 
+ j'ai moins aimé : 
+ * le chapitre contre l'OIF, étant un organisme qui ne me concernait pas, j'ai trouvé long la description de ses magouilles politiques
+ 
