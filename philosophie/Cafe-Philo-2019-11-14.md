@@ -1,8 +1,17 @@
 # Quand le numérique se joue de nos déterminisme. 
+
 __Café-Philo. 14 Novembre 2019__
+
 __Note: Thomas PIERRAIN__
 
 Présents: Sam, Bastien, Bertrand, Frédéric, Fabien, Thomas
+
+Bouquin recommandé : 
+
+La nouvelle servitude volontaire. Enquête sur le projet politique de la Silicon Valley (Philippe VION DURY) : https://www.babelio.com/livres/Vion-Dury-La-nouvelle-servitude-volontaire/904088
+
+Disclaimer : je n'ai pas partagé les meilleures feuilles sur le channel café-philo du slack Okiwi, mais c'était faute de temps. Le bouquin, à la croisée de l'économie, de la philo, de la politique, de la sociologie etc. est passionnant et assez dense.
+
 
 ## Libre arbitre vs. déterminisme
 
@@ -39,7 +48,10 @@ Pourquoi serions-nous programmé pour penser que nous sommes libres ?
 
 Il existe quelques hypothèses d’explication en terme d’avantage adaptatif : par exemple, étant donné l’aspect social extrêmement important de notre espèce, une illusion de libre-arbitre permettrait de nous donner un sens apparent de la responsabilité, qui nous pousserait à nous conduire de façon convenable envers les autres (consolidation du groupe). Ou encore, avoir l’impression d’être à la barre dans son cerveau et de savoir ce qui s’y passe permettrait de mieux justifier ses décisions et comportements, et convaincre les autres du bien-fondé de ses actions.
 
-Par conséquent, nous sommes de petits être facilement contrôlables/manipulables
+## Quand le numérique se joue de nos determinisme
+Par conséquent, nous sommes des êtres facilement contrôlables/manipulables.
+
+Chaque jour, nous sommes toutes et tous les jouets de centaines d'expériences psychologiques. Cf les études de FaceBook, Google, OkCupid etc mentionnées dans le bouquin de Philippe VION DURY.
 
 Dans la Silicon Valley, ça se goinfre d’étude psychologiques. On est en plein business de la manipulation.
 
@@ -58,6 +70,7 @@ Le big data sert à identifier des individus vulnérables (femmes enceintes, le 
 C'est le capital symbolique (social en particulier) cher à Bourdieu qui est en jeu sur twitter et les autres réseaux sociaux. Il faut montrer à quel point on est "connecté" avec les autres.
 
 Aujourd’hui, nous sommes intermédiés par des plateforme centralisées (genre twitter, slack, Facebook) qui sont conçues pour nous faire réagir et obtenir de la dopamine (ce qui active ainsi notre système de récompense/renforcement). Et nous réagissons. Très facilement ;-(
+
 Il n’y a qu’à voir le niveau des débats et de l’agressivité sur Twitter.
 
 Les suggestions qui nous sont faites etc, tout est fait pour qu’on y revienne et qu’on ait envie de réagir, de s'emporter.
@@ -71,9 +84,4 @@ Nous mettons aussi de nouvelles structures de pouvoir : une personne qui tient u
 De nos jours, exprimer haut et fort qu’on est en désaccord avec quelqu’un ne semble plus suffire. On voit beaucoup d’extrémistes réclamer l’annulation d’une personne (il faut la detruire professionnellement et socialement).
 
 Les pires sont les « poissons pilotes », c.ad. celles et ceux qui se chargent de la basse besogne et des tweets les plus aggressifs derrière leurs leaders d'opinions qui n'ont ensuite qu'à "liker" ces mêmes poissons-pilotes pour leur donner l'énergie suffisante pour continuer leur acharnement. Il serait intéressant qu'on puisse toutes et tous s'intéroger sur ces mouvements grégaires dans lesquels nous ne montrons pas le meilleur visage de notre humanité (l'enfer est pavé de bonnes intentions).
-
-Bouquin recommandé : 
-
-La nouvelle servitude volontaire. Enquête sur le projet politique de la Silicon Valley (Philippe VION DURY) : https://www.babelio.com/livres/Vion-Dury-La-nouvelle-servitude-volontaire/904088
-
 
