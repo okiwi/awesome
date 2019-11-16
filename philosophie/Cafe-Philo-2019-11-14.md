@@ -29,7 +29,7 @@ Etre en Grèce, c’est “Obéir à la loi du monde”, c’est obéir au Cosmo
 
 Pour Nietzsche ou Schopenhauer, la liberté est une invention des Chrétiens (tendance doloriste, a la St Paul), pour permettre la culpabilité lorsqu’on se trompe, et de bâtir toute une société qui va avec.
 
-(Pour Schopenhauer‘s , je peux choisir ce que je veux, mais je pourrais ne pas vouloir ce que je désire - ou un truc comme ça, à vérifier ;-)
+(Pour Schopenhauer‘s , je peux choisir ce que je veux, mais je pourrais ne pas vouloir ce que je désire - ou un truc comme ça, à vérifier ici ? https://www.schopenhauer.fr/philosophie/libre-arbitre.html )
 
 Je ne suis libre que d'une seule chose : consentir a la force qui me fait être ce que je suis. La liberté n'est ni un instrument de soumission, ni un instrument de liberation.
 
@@ -41,6 +41,8 @@ Au "connais-toi toi même" de Socrate, les Epicuriens répondent : "je suis mon 
 
 En psychologie, des études montrent qu’on rationalise à posteriori nos choix ;-)
 Que notre faculté de penser est empreinte de biais de confirmations : on pattern match ce qu’on a déjà dans notre tête (cf. D. Kahneman).
+
+Note de @ffaure32 : j'aime beaucoup cette analogie avec le pattern matching mais est-ce que ça ne s'étend pas à tous les biais cognitifs et pas seulement au biais de confirmation ? Un biais est un raccourci que fait le cerveau pour gagner du temps. cf. l'émission : https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-lundi-30-septembre-2019
 
 La biologie aussi : des expériences de neurosciences montrent que l’on peut détecter une activité cérébrale permettant de prédire la décision que va prendre un sujet AVANT MEME que ce sujet ait conscience de la prendre.
 
@@ -83,5 +85,5 @@ Nous mettons aussi de nouvelles structures de pouvoir : une personne qui tient u
 
 De nos jours, exprimer haut et fort qu’on est en désaccord avec quelqu’un ne semble plus suffire. On voit beaucoup d’extrémistes réclamer l’annulation d’une personne (il faut la detruire professionnellement et socialement).
 
-Les pires sont les « poissons pilotes », c.ad. celles et ceux qui se chargent de la basse besogne et des tweets les plus aggressifs derrière leurs leaders d'opinions qui n'ont ensuite qu'à "liker" ces mêmes poissons-pilotes pour leur donner l'énergie suffisante pour continuer leur acharnement. Il serait intéressant qu'on puisse toutes et tous s'intéroger sur ces mouvements grégaires dans lesquels nous ne montrons pas le meilleur visage de notre humanité (l'enfer est pavé de bonnes intentions).
+Les pires sont les « poissons pilotes », c.-à-d celles et ceux qui se chargent de la basse besogne et des tweets les plus aggressifs derrière leurs leaders d'opinions qui n'ont ensuite qu'à "liker" ces mêmes poissons-pilotes pour leur donner l'énergie suffisante pour continuer leur acharnement. Il serait intéressant qu'on puisse toutes et tous s'interroger sur ces mouvements grégaires dans lesquels nous ne montrons pas le meilleur visage de notre humanité (l'enfer est pavé de bonnes intentions).
 
