@@ -2,7 +2,7 @@
 
 __Café-Philo. 14 Novembre 2019__
 
-__Note: Thomas PIERRAIN__
+__Notes: Thomas PIERRAIN__
 
 Présents: Sam, Bastien, Bertrand, Frédéric, Fabien, Thomas
 
@@ -75,7 +75,7 @@ Il n’y a qu’à voir le niveau des débats et de l’agressivité sur Twitter
 
 Les suggestions qui nous sont faites etc, tout est fait pour qu’on y revienne et qu’on ait envie de réagir, de s'emporter.
 
-Même sur des sujets que l’on peut penser “nobles”, comme la lutte contre les discriminations, défendre les opprimés etc. Nous sommes les jouets de notre façon de fonctionner et de rechercher ou de montrer notre capital symbolique (pas mal expliqué par la video de Peter Coffin https://youtu.be/4RaR1xAcR9Y
+Même sur des sujets que l’on peut penser “nobles”, comme la lutte contre les discriminations, défendre les opprimés etc. Nous sommes les jouets de notre façon de fonctionner et de rechercher ou de montrer notre capital symbolique (pas mal expliqué par la video de Peter Coffin https://youtu.be/4RaR1xAcR9Y )
 
 Nous sommes les pions du capitalisme et de ses/ces plateformes ;-) Leurs métriques tournent autours de KPIs comme notre visibilité, le nombre de personnes dans notre réseau et donc une certaine crédibilité, etc. On est incités à créer du contenu qui va suivre ces métriques.
 
