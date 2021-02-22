@@ -8,7 +8,7 @@
 ## Project & Team Management
  - The Mythical Man Month _F. Brooks_
  - Peopleware _T. Demarco & T. Lister_
- - Scrum & XP From the Trenches _H. Kniberg_ [(freely available online)](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
+ - Scrum & XP From the Trenches _H. Kniberg_ [(freely available online)](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)[(version française)](https://www.infoq.com/fr/minibooks/scrum-xp-from-the-trenches/)
  - The Art of Agile Development: Pragmatic Guide to Agile Software Development _Shane Warden & James Shore_
  - Extreme Programming Explained: Embrace Change _Kent Beck & Cynthia Andres_
  - Lean Software Development: An Agile Toolkit Agile Toolkit _Mary Poppendieck, Tom Poppendieck_
