@@ -20,3 +20,6 @@ Des petits utilitaires pas forcément très connus qui ont pu être évoqués lo
 ### Gestion du temps
 
 * [Mobster](http://mobster.cc/) : Timer dédié au Pair/Mob-Programming
+
+## Divers
+[[Recette pain]]
