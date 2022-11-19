@@ -22,4 +22,4 @@ Des petits utilitaires pas forcément très connus qui ont pu être évoqués lo
 * [Mobster](http://mobster.cc/) : Timer dédié au Pair/Mob-Programming
 
 ## Divers
-[[Recette pain]]
+[Recette pain](Divers/recette_pain.md)
